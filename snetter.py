@@ -9,7 +9,7 @@
 # the first IP available for a host
 # the last IP available for a host
 
-# by puz00
+# by puzz00
 
 import optparse
 from subnet_class import SubnetHelper
