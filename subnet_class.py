@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # class for finding subnet information
-# by puz00
+# by puzz00
 
 class SubnetHelper:
     # use a constructor to define what is needed in this class
